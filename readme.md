@@ -1,6 +1,6 @@
 # Pytorch implementation of [Graph-Aware Contrasting for Multivariate Time-Series Classification](https://arxiv.org/pdf/2309.05202.pdf). 
 
-by: Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie, and Zhenghua Chen
+by: Yucheng Wang, [Yuecong Xu](https://xuyu0010.github.io/), [Jianfei Yang](https://marsyang.site/), [Min Wu](https://sites.google.com/site/wumincf/), [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), [Lihua Xie](https://personal.ntu.edu.sg/elhxie/), [Zhenghua Chen](https://zhenghuantu.github.io/)
 
 ## :boom: This work has been accepted for publication for AAAI-2024 (acceptance rate 23.75%).
 
