@@ -1,4 +1,4 @@
-Pytorch implementation of [Graph Contextual Contrasting for Multivariate Time Series Classification]. 
+Pytorch implementation of [Graph-Aware Contrasting for Multivariate Time-Series Classification](https://arxiv.org/pdf/2309.05202.pdf). 
 
 # Requirements
 
