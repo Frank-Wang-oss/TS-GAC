@@ -18,7 +18,7 @@ You will need the following to run the above:
   
 # Dataset
 
-We use six datasets to evaluate our method, including UCI-HAR, ISRUC-S3, three UEA datasets including ArticularyWordRecognition, FingerMovement, and SpokenArabicDigitsEq.
+We use ten datasets to evaluate our method, including UCI-HAR, ISRUC-S3, eight UEA datasets including ArticularyWordRecognition (AWR), FingerMovements (FM), SpokenArabicDigitsEq (SAD), CharacterTrajectories (CT), FaceDetection (FD), InsectWingbeat (IW), MotorImagery (MI), and SelfRegulationSCP1 (SRSCP1).
 
 
 ## UCI-HAR
