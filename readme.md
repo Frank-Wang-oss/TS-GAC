@@ -40,3 +40,22 @@ You can access [here](http://timeseriesclassification.com/dataset.php)
 
 
 For running the experiments on these datasets, you need to first run preprocess/data_read_UEA.py to pre-process the dataset. After that, run main_GNN_batch.py
+
+## Results
+
+![1702895133819](https://github.com/Frank-Wang-oss/TS-GAC/assets/73806631/c2fe3155-27a5-4820-a44e-9919be4eef70)
+
+
+# Citation
+If you found this work useful for you, please consider citing it.
+```
+@misc{wang2023graph,
+      title={Graph Contextual Contrasting for Multivariate Time Series Classification}, 
+      author={Yucheng Wang and Yuecong Xu and Jianfei Yang and Min Wu and Xiaoli Li and Lihua Xie and Zhenghua Chen},
+      year={2023},
+      eprint={2309.05202},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
